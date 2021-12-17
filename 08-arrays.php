@@ -1,5 +1,7 @@
 <?php include 'includes/header.php';
 
+/* Un array en PHP es en realidad un mapa ordenado. Un mapa es un tipo de datos que asocia valores con claves. Este tipo se optimiza para varios usos diferentes; se puede emplear como un array, lista (vector), tabla asociativa (tabla hash - una implementación de un mapa), diccionario, colección, pila, cola, y posiblemente más. Ya que los valores de un array pueden ser otros arrays, también son posibles árboles y arrays multidimensionales. */
+
 $carrito = ['Tablet', 'Television', 'Computadora'];
 
 // Util para ver los contenidos de un array
